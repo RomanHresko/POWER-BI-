@@ -22,7 +22,12 @@
    - ALLEXCEPT 
    - ALLSELECTED
    - TOTALYTD
+   - AVERAGEX
    - SUM
+   - SUMX
+   - MAX
+   - COUNTROWS
+   - USERELATIONSHIP
    - CALENDARAUTO
    - DimDate (для розбиття дати на 28 стовпчиків: рік, місяць, квартал, день тижня, фінансовий місяць і тд.)
 
