@@ -15,6 +15,32 @@ HR Dashboard - створений з метою моніторингу всіх 
 **Основні міри які було пораховано:** Рівень утримання, рівень залученості, коефіцієнт відтоку працівників; **міри зарплати:** середня, мінімальна, максимальна, медіана, 1й квартиль, 3 квартиль, міжквартальний розмах; **міри віку:** середній, мінімальний, максимальний; середній період роботи, початок періоду, кінець періоду, вибувші працівники, ті що пішли добровільно, тих що звільнили і тд.
 4. Звіт може бути використаний в якості реального звіту підприємства.
 5. Формули DAX які були використані під час розрахунків:
+- VAR
+- IF
+- ISINSCOPE
+- CALCULATE
+- DISTINCTCOUNT
+- DATEADD
+- RETURN
+- COALESCE
+- FILTER
+- MAX, MIN
+- CALCULATETABLE
+- DIVIDE
+- AVERAGE, AVERAGEX
+- SUMMARIZE
+- ROUNDDOWN
+- ISBLANK
+- USERELATIONSHIP
+- ALL
+- SELECTEDVALUE
+- ALLEXCEPT
+- SWITCH
+- FORMAT
+- MEDIAN
+- PERCENTILE.INC
+- CALENDAR
+- GENERATESERIES
 
 ![image](https://github.com/user-attachments/assets/c09ea7df-20fa-46b4-970f-772a8bd8e9cc)
 
